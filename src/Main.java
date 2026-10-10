@@ -5,6 +5,6 @@ public class Main{
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a number : ");
         int n = sc.nextInt();
-        System.out.println("Welcome Back! your number is : " + n);
+        System.out.println("Hi from feature branch");
     }
 }
