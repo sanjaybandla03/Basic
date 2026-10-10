@@ -6,5 +6,6 @@ public class Main{
         System.out.print("Enter a number : ");
         int n = sc.nextInt();
         System.out.println("Hello from Git!");
+        System.out.println("Hi from feature branch");
     }
 }
