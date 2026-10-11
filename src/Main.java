@@ -7,5 +7,6 @@ public class Main{
         int n = sc.nextInt();
         System.out.println("Hello from Git!");
         System.out.println("Hi from feature branch");
+        System.out.println("Updated directly on GitHub!");
     }
 }
